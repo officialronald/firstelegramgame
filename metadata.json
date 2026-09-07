@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Games Arena",
+  "description": "Lightweight Telegram gaming platform featuring multiplayer Tic-Tac-Toe, 2D Archery, friend rooms, matchmaking, leaderboards, and player profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
